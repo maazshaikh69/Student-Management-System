@@ -13,3 +13,7 @@ A Java-based Student Management System demonstrating OOP concepts like inheritan
 ## Technologies
 - Java
 - OOP concepts
+
+## Concepts Used
+- OOP (Inheritance, Abstraction, Polymorphism)
+- Layered Architecture (Service, Repository)
